@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">График Калькулятор</string>
+    <string name="hint_expression">Введите выражение, например: x^2</string>
+    <string name="btn_calculate">Вычислить</string>
+    <string name="btn_plot">Построить график</string>
+    <string name="error_expression">Ошибка в выражении!</string>
+    <string name="error_plot">Ошибка построения графика!</string>
+    <string name="error_empty">Введите выражение</string>
+    <string name="error_division_by_zero">Ошибка: деление на ноль</string>
+    <string name="error_invalid_format">Ошибка: неверный формат выражения</string>
+    <string name="result_format">Результат: %1$.2f</string>
+</resources>
